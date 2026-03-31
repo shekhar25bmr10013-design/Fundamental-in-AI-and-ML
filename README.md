@@ -47,17 +47,7 @@ The heuristic used in this project is **Manhattan Distance**.
 ---
 
 ##  How to Run the Project
-### 1. Install Dependencies
-```bash
-pip install pygame
-```
-
-### 2. Run the Program
-```bash
-python main.py
-```
-
----
+py -3.11 "C:\Users\Khushi\OneDrive\Documents\astar_project\astarfinal.py" (use this in terminal)
 
 ##  Output
 The output window displays:
