@@ -8,7 +8,6 @@ An AI-based pathfinding project that has a robot moving inside a 2D room with ob
 ---
 
 ##  Project Overview
-
 The objective of this project is to help a robot move from a **start position** to a **goal position** while avoiding obstacles such as walls, furniture, or blocked areas.
 
 The system uses the **A* algorithm** to compute the shortest collision-free path.
