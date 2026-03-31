@@ -37,7 +37,6 @@ The heuristic used in this project is **Manhattan Distance**.
 ---
 
 ##  Features
-
 - 2D room/grid simulation
 - static obstacle placement
 - shortest path calculation
